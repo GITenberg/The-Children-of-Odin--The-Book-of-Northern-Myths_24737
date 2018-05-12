@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/893
     wikipedia: http://en.wikipedia.org/wiki/Padraic_Colum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24737#The-Children-of-Odin--The-Book-of-Northern-Myths
 gutenberg_bookshelf:
 - Children's Myths, Fairy Tales, etc.
 - Paganism
