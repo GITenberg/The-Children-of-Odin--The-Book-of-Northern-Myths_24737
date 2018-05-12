@@ -1,0 +1,43 @@
+_repo: The-Children-of-Odin--The-Book-of-Northern-Myths_24737
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pogány, Willy
+    aliases:
+    - Pogany, Willy
+    - Pogány, Vilmos
+    birthdate: 1882
+    deathdate: 1955
+    gutenberg_agent_id: '6985'
+    url: http://www.gutenberg.org/2009/agents/6985
+    wikipedia: http://en.wikipedia.org/wiki/Willy_Pogany
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colum, Padraic
+    alias: Collumb, Patrick
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '893'
+    url: http://www.gutenberg.org/2009/agents/893
+    wikipedia: http://en.wikipedia.org/wiki/Padraic_Colum
+description: ''
+gutenberg_bookshelf:
+- Children's Myths, Fairy Tales, etc.
+- Paganism
+gutenberg_issued: '2008-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24737'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Norse -- Juvenile literature'
+- !lcc 'BL'
+- !lcc 'PZ'
+title: 'The Children of Odin: The Book of Northern Myths'
+url: http://www.gutenberg.org/ebooks/24737
